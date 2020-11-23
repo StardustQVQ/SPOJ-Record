@@ -1,2 +1,3 @@
 # SPOJ-Record
-My SPOJ records of solved problems.
+
+This is my SPOJ records of solved problems. Catagorized by SPOJ `tags`.
